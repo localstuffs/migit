@@ -1,0 +1,2 @@
+# migit
+myfirst git tut
